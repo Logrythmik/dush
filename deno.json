@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "start": "deno run --allow-all  ./src/main.ts",
+    "build": "deno bundle ./src/main.ts ./dist/hsh.js",
+    "compile": "deno compile --allow-all --unstable --output ./hsh ./src/main.ts"
+  }
+}

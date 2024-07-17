@@ -1,0 +1,10 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "cSpell.words": [
+    "chatgpt",
+    "OPENAI"
+  ],
+  "deno.unstable": true,
+  "deno.suggest.imports.autoDiscover": true,
+}
